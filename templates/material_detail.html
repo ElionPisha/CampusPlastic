@@ -1,25 +1,42 @@
 <!DOCTYPE html>
+{% load static %}
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Campus Plastic List</title>
+    <title>Campus Plastic Json</title>
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
 </head>
-
-<!--    <div class="loader">Loading...</div>-->
+<body>
+<div class="container">
     {% for key, value in data.items %}
     <div>
         <div style="color: gray">{{key}}</div>
         <div>
             {% for key2, value2 in value.items %}
-                <div>{{key2}}</div>
-                <div style="margin-left:10px">{{value2}}</div>
+            <div>{{key2}}</div>
+            <div style="margin-left:10px">{{value2}}</div>
             {% endfor %}
         </div>
     </div>
     <hr>
     {% endfor %}
-
-<body>
-
+    <button type="button" class="btn btn-primary btnbt"  onclick="exportToJsonFile({{data}})">Download File</button>
+</div>
 </body>
+
+<script>
+    function exportToJsonFile(jsonData) {
+        let dataStr = JSON.stringify(jsonData, null, 2);
+        let dataUri = 'data:application/json;charset=utf-8,' + encodeURIComponent(dataStr);
+
+        let exportFileDefaultName = 'data.json';
+
+        let linkElement = document.createElement('a');
+        linkElement.setAttribute('href', dataUri);
+        linkElement.setAttribute('download', exportFileDefaultName);
+        linkElement.click();
+}
+</script>
 </html>

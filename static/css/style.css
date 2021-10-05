@@ -1,5 +1,21 @@
+h1 {
+
+    width: 95%;
+    text-align: center;
+    font-family: serif;
+    margin: auto;
+    margin-top: 10px;
+    padding: 15px;
+    background: aliceblue;
+    box-shadow: 0 3px 5px -1px rgb(0 0 0 / 20%), 0 6px 10px 0 rgb(0 0 0 / 14%), 0 1px 18px 0 rgb(0 0 0 / 12%);
+}
+
+
 ul {
     padding:0;
+}
+body{
+margin:0;
 }
 
 .element-link {
@@ -23,6 +39,7 @@ ul {
     align-items: center;
     background: white;
     display: none;
+    top: 0;
 }
 
 .loading::after {
@@ -40,4 +57,28 @@ ul {
     to {
         transform: rotate(1turn);
     }
+}
+
+.cnt {
+    overflow-y: auto;
+}
+
+.pagination {
+    justify-content: center;
+        margin-bottom: 9px;
+    margin-top: 9px;
+}
+
+nav {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: white;
+    box-shadow: 0 3px 5px -1px rgb(0 0 0 / 20%), 0 6px 10px 0 rgb(0 0 0 / 14%), 0 1px 18px 0 rgb(0 0 0 / 12%);
+}
+
+.btnbt {
+    position: sticky;
+    left: 81%;
+    bottom: 10px;
 }

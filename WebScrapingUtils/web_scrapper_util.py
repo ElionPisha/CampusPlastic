@@ -49,11 +49,8 @@ def process_group_feature(data, group_feature_elements):
 
 
 def get_page(page):
-    # we create a session that will link us with the website we want to scrap by providing the url
     session = HTMLSession()
-    # this is the page size that specifies how many elements we want to take
     page_size = 50
-    # here we make the get request using the session variable and the url to get back the html file
     source = session.get("https://www.campusplastics.com/campus/list/" + str(page * page_size))
     try:
         source.raise_for_status()
@@ -63,27 +60,18 @@ def get_page(page):
     list_of_elements = soup.find_all("div", {"class": "row row-grade"})
     response = []
     for elements in list_of_elements:
-        # here we get all the elements that have the tag a
-        # from the list of 'a' tags we want to get the second one because it has the
-        # url to the page we want to get the data
         link = elements.find_all('a')[1]
 
-        # from the 'a' tag we get the 'href' attribute that has the url in it
         raw_url = link['href']
 
-        # from all the value of 'href' we want only the part after 'datasheet/' which
-        # is the url of the page
+
         url = raw_url.split("datasheet/")[1]
-        # here we store the text of the 'a' tag which we will use do show in the html page
         title = link.text
 
-        # here we add the extracted data from the 'a' tag and append it to the list we
-        # created
         response.append({
             "href_url": url,
             "title": title
         })
-        # here we return the list of data we created
     return response
 
 
@@ -105,6 +93,3 @@ def get_data_from_url(param):
     data = process_group_feature(data, group_feature_elements)
     return data
 
-
-# data = get_data_from_url("Akulon®+K224-KGM35/DSM/50/5c85ec01/SI/?pos=101&campus-main=acvs1is96mqgq8pfacsrcg7gk1")
-# print(data)
