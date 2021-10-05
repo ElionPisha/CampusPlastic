@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Campus Plastic List</title>
+</head>
+
+<!--    <div class="loader">Loading...</div>-->
+    {% for key, value in data.items %}
+    <div>
+        <div style="color: gray">{{key}}</div>
+        <div>
+            {% for key2, value2 in value.items %}
+                <div>{{key2}}</div>
+                <div style="margin-left:10px">{{value2}}</div>
+            {% endfor %}
+        </div>
+    </div>
+    <hr>
+    {% endfor %}
+
+<body>
+
+</body>
+</html>

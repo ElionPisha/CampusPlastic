@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+{%load static%}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title1</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+ <div class="container">
+     <div class="loading" id="spinner"></div>
+        <ul>
+            {% for link in links %}
+                <li class="element-link">
+                    <a href="../../material/{{link.href_url}}" onclick="loadSpinner()">{{link.title}}</a>
+                </li>
+            {% endfor %}
+        </ul>
+</div>
+</body>
+
+<!--    Single Element CSS Spinners-->
+<script>
+    function loadSpinner() {
+        const spinner = document.getElementById("spinner");
+        if(spinner){
+            spinner.style.display = "flex";
+        }
+    }
+</script>
+
+</html>

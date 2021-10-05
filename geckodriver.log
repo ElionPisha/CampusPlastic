@@ -1,0 +1,713 @@
+1633282110380	geckodriver	INFO	Listening on 127.0.0.1:54889
+1633282113420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofiletxf0sC"
+*** You are running in headless mode.
+1633282115025	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofiletxf0sC\\search.json.mozlz4", (void 0)))
+1633282117521	Marionette	INFO	Listening on port 54897
+1633282117621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633282124172	Marionette	INFO	Stopped listening on port 54897
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633282278570	geckodriver	INFO	Listening on 127.0.0.1:64324
+1633282281601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileqBR8Ax"
+*** You are running in headless mode.
+1633282282665	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileqBR8Ax\\search.json.mozlz4", (void 0)))
+1633282285711	Marionette	INFO	Listening on port 50825
+1633282286086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633282292344	Marionette	INFO	Stopped listening on port 50825
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633282333553	geckodriver	INFO	Listening on 127.0.0.1:56069
+1633282336587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileDnGMbt"
+*** You are running in headless mode.
+1633282337684	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileDnGMbt\\search.json.mozlz4", (void 0)))
+1633282339865	Marionette	INFO	Listening on port 50317
+1633282340271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633282354955	Marionette	INFO	Stopped listening on port 50317
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633282607361	geckodriver	INFO	Listening on 127.0.0.1:59136
+1633282610450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofile29BgUJ"
+*** You are running in headless mode.
+1633282611430	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofile29BgUJ\\search.json.mozlz4", (void 0)))
+1633282613962	Marionette	INFO	Listening on port 60188
+1633282614139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633282621490	Marionette	INFO	Stopped listening on port 60188
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633282685193	geckodriver	INFO	Listening on 127.0.0.1:62076
+1633282688379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileufJjiQ"
+*** You are running in headless mode.
+1633282689146	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileufJjiQ\\search.json.mozlz4", (void 0)))
+1633282691400	Marionette	INFO	Listening on port 56646
+1633282691586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633282698087	Marionette	INFO	Stopped listening on port 56646
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633282804169	geckodriver	INFO	Listening on 127.0.0.1:50463
+1633282807348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilekiGFbm"
+*** You are running in headless mode.
+1633282808344	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilekiGFbm\\search.json.mozlz4", (void 0)))
+1633282812609	Marionette	INFO	Listening on port 53540
+1633282813162	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633282826704	Marionette	INFO	Stopped listening on port 53540
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633282861042	geckodriver	INFO	Listening on 127.0.0.1:56753
+1633282864102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilee3nCcz"
+*** You are running in headless mode.
+1633282864867	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilee3nCcz\\search.json.mozlz4", (void 0)))
+1633282868584	Marionette	INFO	Listening on port 57128
+1633282869034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633282877596	Marionette	INFO	Stopped listening on port 57128
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633282923924	geckodriver	INFO	Listening on 127.0.0.1:50600
+1633282927030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilekBm4NW"
+*** You are running in headless mode.
+1633282927852	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilekBm4NW\\search.json.mozlz4", (void 0)))
+1633282931270	Marionette	INFO	Listening on port 53555
+1633282931391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633282941791	Marionette	INFO	Stopped listening on port 53555
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633282956287	geckodriver	INFO	Listening on 127.0.0.1:63360
+1633282959328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilePqUzOb"
+*** You are running in headless mode.
+1633282960227	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilePqUzOb\\search.json.mozlz4", (void 0)))
+1633282964021	Marionette	INFO	Listening on port 60531
+1633282964210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633282971580	Marionette	INFO	Stopped listening on port 60531
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633282985767	geckodriver	INFO	Listening on 127.0.0.1:58043
+1633282988846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileQvRQCz"
+*** You are running in headless mode.
+1633282990228	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileQvRQCz\\search.json.mozlz4", (void 0)))
+1633282993691	Marionette	INFO	Listening on port 52466
+1633282993866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633283002066	Marionette	INFO	Stopped listening on port 52466
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633283072098	geckodriver	INFO	Listening on 127.0.0.1:54979
+1633283075133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilePjLbWC"
+*** You are running in headless mode.
+1633283076344	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilePjLbWC\\search.json.mozlz4", (void 0)))
+1633283080070	Marionette	INFO	Listening on port 55183
+1633283080538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633283088935	Marionette	INFO	Stopped listening on port 55183
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633283238795	geckodriver	INFO	Listening on 127.0.0.1:63419
+1633283241862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileB64cxw"
+*** You are running in headless mode.
+1633283242544	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileB64cxw\\search.json.mozlz4", (void 0)))
+1633283244513	Marionette	INFO	Listening on port 49504
+1633283244580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633283253671	Marionette	INFO	Stopped listening on port 49504
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633283294254	geckodriver	INFO	Listening on 127.0.0.1:57184
+1633283297280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileb3miLQ"
+*** You are running in headless mode.
+1633283297843	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileb3miLQ\\search.json.mozlz4", (void 0)))
+1633283299658	Marionette	INFO	Listening on port 63895
+1633283300031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633283308475	Marionette	INFO	Stopped listening on port 63895
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633283816859	geckodriver	INFO	Listening on 127.0.0.1:59802
+1633283819889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofile5R2KMz"
+*** You are running in headless mode.
+1633283820991	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofile5R2KMz\\search.json.mozlz4", (void 0)))
+1633283823872	Marionette	INFO	Listening on port 56762
+1633283824265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633283836374	Marionette	INFO	Stopped listening on port 56762
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633283838016	geckodriver	INFO	Listening on 127.0.0.1:53607
+1633283843526	geckodriver	INFO	Listening on 127.0.0.1:58624
+1633283846558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilegmt4er"
+*** You are running in headless mode.
+1633283847428	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilegmt4er\\search.json.mozlz4", (void 0)))
+1633283850182	Marionette	INFO	Listening on port 62609
+1633283850386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633283858131	Marionette	INFO	Stopped listening on port 62609
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633283955428	geckodriver	INFO	Listening on 127.0.0.1:59623
+1633283958529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofile4ze8VD"
+*** You are running in headless mode.
+1633283959369	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofile4ze8VD\\search.json.mozlz4", (void 0)))
+1633283961456	Marionette	INFO	Listening on port 62197
+1633283961732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633283971253	Marionette	INFO	Stopped listening on port 62197
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633283972960	geckodriver	INFO	Listening on 127.0.0.1:64386
+1633283976007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileR6dFbZ"
+*** You are running in headless mode.
+1633283976848	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileR6dFbZ\\search.json.mozlz4", (void 0)))
+1633283979772	Marionette	INFO	Listening on port 56816
+1633283980215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+e" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilee2qjVn"
+*** You are running in headless mode.
+1633283989582	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilee2qjVn\\search.json.mozlz4", (void 0)))
+1633283991882	Marionette	INFO	Listening on port 58876
+1633283991928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633284002245	Marionette	INFO	Stopped listening on port 58876
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633284004230	geckodriver	INFO	Listening on 127.0.0.1:58295
+1633284007266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileAALfJf"
+*** You are running in headless mode.
+1633284008138	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileAALfJf\\search.json.mozlz4", (void 0)))
+1633284010788	Marionette	INFO	Listening on port 61192
+1633284010966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633284017561	Marionette	INFO	Stopped listening on port 61192
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633284975417	geckodriver	INFO	Listening on 127.0.0.1:61371
+1633284978481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileRLMjhU"
+*** You are running in headless mode.
+1633284979060	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileRLMjhU\\search.json.mozlz4", (void 0)))
+1633284980954	Marionette	INFO	Listening on port 62518
+1633284981144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633284989036	Marionette	INFO	Stopped listening on port 62518
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633369636500	geckodriver	INFO	Listening on 127.0.0.1:53180
+1633369639527	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileBreyPU"
+*** You are running in headless mode.
+1633369640559	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileBreyPU\\search.json.mozlz4", (void 0)))
+1633369643128	Marionette	INFO	Listening on port 64478
+1633369643236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633369650348	Marionette	INFO	Stopped listening on port 64478
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633369677308	geckodriver	INFO	Listening on 127.0.0.1:62377
+1633369680410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileWc5xrG"
+*** You are running in headless mode.
+1633369681075	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileWc5xrG\\search.json.mozlz4", (void 0)))
+1633369683610	Marionette	INFO	Listening on port 60739
+1633369684100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633369690389	Marionette	INFO	Stopped listening on port 60739
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633369749875	geckodriver	INFO	Listening on 127.0.0.1:61871
+1633369752991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilessO6Kd"
+*** You are running in headless mode.
+1633369754400	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilessO6Kd\\search.json.mozlz4", (void 0)))
+1633369757025	Marionette	INFO	Listening on port 63768
+1633369757230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633369763585	Marionette	INFO	Stopped listening on port 63768
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633369808239	geckodriver	INFO	Listening on 127.0.0.1:64727
+1633369811323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilexKamvd"
+*** You are running in headless mode.
+1633369812332	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilexKamvd\\search.json.mozlz4", (void 0)))
+1633369814833	Marionette	INFO	Listening on port 51163
+1633369815043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633369821459	Marionette	INFO	Stopped listening on port 51163
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633369855040	geckodriver	INFO	Listening on 127.0.0.1:57343
+1633369858115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileoTpqzP"
+*** You are running in headless mode.
+1633369859091	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileoTpqzP\\search.json.mozlz4", (void 0)))
+1633369861766	Marionette	INFO	Listening on port 64714
+1633369861829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633369868148	Marionette	INFO	Stopped listening on port 64714
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633369885253	geckodriver	INFO	Listening on 127.0.0.1:60876
+1633369888340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileEohGwz"
+*** You are running in headless mode.
+1633369889052	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileEohGwz\\search.json.mozlz4", (void 0)))
+1633369891555	Marionette	INFO	Listening on port 59507
+1633369892063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633369898496	Marionette	INFO	Stopped listening on port 59507
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633370205996	geckodriver	INFO	Listening on 127.0.0.1:50158
+1633370209072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilecsNIwF"
+*** You are running in headless mode.
+1633370209733	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilecsNIwF\\search.json.mozlz4", (void 0)))
+1633370212163	Marionette	INFO	Listening on port 64193
+1633370212276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633370218597	Marionette	INFO	Stopped listening on port 64193
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633370312456	geckodriver	INFO	Listening on 127.0.0.1:51984
+1633370315529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileOSjMXB"
+*** You are running in headless mode.
+1633370316252	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileOSjMXB\\search.json.mozlz4", (void 0)))
+1633370318537	Marionette	INFO	Listening on port 51908
+1633370318729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633370325098	Marionette	INFO	Stopped listening on port 51908
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633370349339	geckodriver	INFO	Listening on 127.0.0.1:51170
+1633370352407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilevILXLK"
+*** You are running in headless mode.
+1633370353200	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilevILXLK\\search.json.mozlz4", (void 0)))
+1633370355570	Marionette	INFO	Listening on port 62956
+1633370355632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633370362162	Marionette	INFO	Stopped listening on port 62956
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633370396831	geckodriver	INFO	Listening on 127.0.0.1:56532
+1633370399929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofile8bJJkq"
+*** You are running in headless mode.
+1633370400756	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofile8bJJkq\\search.json.mozlz4", (void 0)))
+1633370403182	Marionette	INFO	Listening on port 49395
+1633370403661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633370409923	Marionette	INFO	Stopped listening on port 49395
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633370431014	geckodriver	INFO	Listening on 127.0.0.1:56970
+1633370434117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileNcFJfX"
+*** You are running in headless mode.
+1633370434932	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileNcFJfX\\search.json.mozlz4", (void 0)))
+1633370437431	Marionette	INFO	Listening on port 61856
+1633370437822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633370444111	Marionette	INFO	Stopped listening on port 61856
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633370569810	geckodriver	INFO	Listening on 127.0.0.1:57113
+1633370572826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileV7MysX"
+*** You are running in headless mode.
+1633370573540	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileV7MysX\\search.json.mozlz4", (void 0)))
+1633370576144	Marionette	INFO	Listening on port 51156
+1633370576539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633370584090	Marionette	INFO	Stopped listening on port 51156
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633370738723	geckodriver	INFO	Listening on 127.0.0.1:51510
+1633370741801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileNkNI2A"
+*** You are running in headless mode.
+1633370742557	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileNkNI2A\\search.json.mozlz4", (void 0)))
+1633370744963	Marionette	INFO	Listening on port 65462
+1633370745025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633370751439	Marionette	INFO	Stopped listening on port 65462
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633370809943	geckodriver	INFO	Listening on 127.0.0.1:49580
+1633370813013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilesmlzXI"
+*** You are running in headless mode.
+1633370813708	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilesmlzXI\\search.json.mozlz4", (void 0)))
+1633370815847	Marionette	INFO	Listening on port 63837
+1633370816216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633370822515	Marionette	INFO	Stopped listening on port 63837
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633370832342	geckodriver	INFO	Listening on 127.0.0.1:62380
+1633370835411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilefMqaSC"
+*** You are running in headless mode.
+1633370836147	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilefMqaSC\\search.json.mozlz4", (void 0)))
+1633370838772	Marionette	INFO	Listening on port 58107
+1633370839146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633370845532	Marionette	INFO	Stopped listening on port 58107
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633371008994	geckodriver	INFO	Listening on 127.0.0.1:64380
+1633371012045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofile89mMmJ"
+*** You are running in headless mode.
+1633371012988	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofile89mMmJ\\search.json.mozlz4", (void 0)))
+1633371015398	Marionette	INFO	Listening on port 64388
+1633371015746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633371023449	Marionette	INFO	Stopped listening on port 64388
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633381607251	geckodriver	INFO	Listening on 127.0.0.1:64699
+1633381610312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileXVcpVz"
+*** You are running in headless mode.
+1633381612326	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileXVcpVz\\search.json.mozlz4", (void 0)))
+1633381615725	Marionette	INFO	Listening on port 59600
+1633381616213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633381625522	Marionette	INFO	Stopped listening on port 59600
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633381667402	geckodriver	INFO	Listening on 127.0.0.1:57942
+1633381670491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilejTSZU8"
+*** You are running in headless mode.
+1633381671219	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilejTSZU8\\search.json.mozlz4", (void 0)))
+1633381673739	Marionette	INFO	Listening on port 62302
+1633381674188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633381680828	Marionette	INFO	Stopped listening on port 62302
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633382242507	geckodriver	INFO	Listening on 127.0.0.1:61319
+1633382245632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofile2AbN9u"
+*** You are running in headless mode.
+1633382246449	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofile2AbN9u\\search.json.mozlz4", (void 0)))
+1633382249031	Marionette	INFO	Listening on port 55800
+1633382249340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633382257971	Marionette	INFO	Stopped listening on port 55800
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+ failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofilev5iCGw\\search.json.mozlz4", (void 0)))
+1633382260078	Marionette	INFO	Listening on port 50345
+1633382260385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633382267216	Marionette	INFO	Stopped listening on port 50345
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633382287106	geckodriver	INFO	Listening on 127.0.0.1:56286
+1633382290198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileGt0UhZ"
+*** You are running in headless mode.
+1633382291110	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileGt0UhZ\\search.json.mozlz4", (void 0)))
+1633382293577	Marionette	INFO	Listening on port 54723
+1633382293922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633382302559	Marionette	INFO	Stopped listening on port 54723
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633415197942	geckodriver	INFO	Listening on 127.0.0.1:60826
+1633415201071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileyUpRoR"
+*** You are running in headless mode.
+1633415203242	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileyUpRoR\\search.json.mozlz4", (void 0)))
+1633415206345	Marionette	INFO	Listening on port 64823
+1633415206485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633415228582	Marionette	INFO	Stopped listening on port 64823
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633415252106	geckodriver	INFO	Listening on 127.0.0.1:62398
+1633415255196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileKHSHg9"
+*** You are running in headless mode.
+1633415256050	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileKHSHg9\\search.json.mozlz4", (void 0)))
+1633415259018	Marionette	INFO	Listening on port 61494
+1633415259437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633415270333	Marionette	INFO	Stopped listening on port 61494
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633415299838	geckodriver	INFO	Listening on 127.0.0.1:58164
+1633415302906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileKiq9D2"
+*** You are running in headless mode.
+1633415303905	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AG\\AppData\\Local\\Temp\\rust_mozprofileKiq9D2\\search.json.mozlz4", (void 0)))
+1633415306920	Marionette	INFO	Listening on port 58172
+1633415307143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.campusplastics.com/campus/temp/main/media/db5a92ae287abd85974a990083009224_20210923.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1633415323419	Marionette	INFO	Stopped listening on port 58172
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
